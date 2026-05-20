@@ -1,6 +1,8 @@
-# Project-SPE
+# Statistical evaluation of Machine Learning models for Network Intrusion Detection
 
 Repository for the performance evaluation project of Simulation and Performance Evaluation course @ UNITN.
+
+Project focused on statistical analysis of the UNSW-NB15 dataset and the performance evaluation of Machine Learning models for Network Intrustion Detection.
 
 Powered by @me and @Sano.
 
